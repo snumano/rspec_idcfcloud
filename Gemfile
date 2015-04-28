@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+ 
+gem 'rspec'
+gem 'capybara'
+gem 'capybara-mechanize'
+gem 'launchy'
+gem 'poltergeist'
+gem 'guard'
+gem 'guard-rspec'
+gem 'selenium-webdriver'
+gem 'ffaker'
+gem 'nokogiri'
